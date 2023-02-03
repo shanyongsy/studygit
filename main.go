@@ -7,3 +7,6 @@ func main(){
 
 func init(){
 }
+
+func func1(){
+}
